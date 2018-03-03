@@ -1,4 +1,4 @@
-## Project Instructions
+## Project Instructions :octocat:
 **Review the Animal Trading Cards project rubric.**
 
 1. Download and unzip `fend-animal-trading-cards-master.zip`. Inside, you'll find `card.html`, `styles.css`, `placeholder.png`, and the `design-prototype.png`.
@@ -20,4 +20,4 @@
 
 :point_right: [Project Specification/rubric](https://review.udacity.com/#!/rubrics/151/view)
 
-:point_right: [Live version](https://jtrfs.github.io/animal-trading-card/)
+:point_right: [View Online](https://jtrfs.github.io/animal-trading-card/)
