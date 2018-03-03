@@ -17,3 +17,7 @@
   - spacing between the animal's name, image, and information (you will need to use the property padding)
   
   -----------
+
+:point_right: [Project Specification/rubric](https://review.udacity.com/#!/rubrics/151/view)
+
+:point_right: [Live version](https://jtrfs.github.io/animal-trading-card/)
