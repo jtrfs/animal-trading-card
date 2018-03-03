@@ -15,3 +15,5 @@
   - border around the animal's name, image, and information
   - border around the animal's information
   - spacing between the animal's name, image, and information (you will need to use the property padding)
+  
+  -----------
